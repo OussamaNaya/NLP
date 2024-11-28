@@ -5,6 +5,9 @@
 ection+Project" alt="Fake News Detection" width="80%">
 </div>
 
+![téléchargement](https://github.com/user-attachments/assets/8533693a-73e7-4430-9f60-95f67f772769)
+
+
 ## Description
 
 <p>
