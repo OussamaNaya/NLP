@@ -1,7 +1,8 @@
 # Fake News Detection Using NLP
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Fake+News+Detection+Project" alt="Fake News Detection" width="80%">
+  <img src="https://via.placeholder.com/800x400.png?text=Fake+News+Det![téléchargement](https://github.com/user-attachments/assets/0699a112-2091-4dce-90a5-629bb4c26109)
+ection+Project" alt="Fake News Detection" width="80%">
 </div>
 
 ## Description
@@ -21,10 +22,3 @@ The solution leverages preprocessed datasets and state-of-the-art machine learni
   <li><b>Evaluation Metrics:</b> Includes precision, recall, F1-score, and confusion matrix analysis.</li>
 </ul>
 
-## Project Structure
-```plaintext
-├── data/               # Datasets used for training and testing
-├── notebooks/          # Jupyter notebooks for experiments
-├── src/                # Source code for preprocessing, training, and evaluation
-├── models/             # Trained models for deployment
-├── README.md           # Project documentation
