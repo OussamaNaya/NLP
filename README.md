@@ -1,9 +1,5 @@
 # Fake News Detection Using NLP
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Fake+News+Det![téléchargement](https://github.com/user-attachments/assets/0699a112-2091-4dce-90a5-629bb4c26109)
-ection+Project" alt="Fake News Detection" width="80%">
-</div>
 
 ![téléchargement](https://github.com/user-attachments/assets/8533693a-73e7-4430-9f60-95f67f772769)
 
