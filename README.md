@@ -1,10 +1,8 @@
 # 1. Fake News Detection Using NLP
-
+#
 
 ![téléchargement](https://github.com/user-attachments/assets/8533693a-73e7-4430-9f60-95f67f772769)
 
-
-## Description
 
 <p>
   This project focuses on detecting fake news articles using advanced Natural Language Processing (NLP) techniques.
@@ -13,7 +11,6 @@
 
 The solution leverages preprocessed datasets and state-of-the-art machine learning models, combined with linguistic analysis, to ensure high accuracy in detection.
 
-## Features
 <ul>
   <li><b>Text Preprocessing:</b> Includes tokenization, lemmatization, and removal of stop words.</li>
   <li><b>Feature Extraction:</b> Uses TF-IDF and word embeddings (e.g., Word2Vec, GloVe).</li>
@@ -21,8 +18,9 @@ The solution leverages preprocessed datasets and state-of-the-art machine learni
   <li><b>Evaluation Metrics:</b> Includes precision, recall, F1-score, and confusion matrix analysis.</li>
 </ul>
 
-<h1> 2. Sentiment Detection for Films</h1>
 
+# 2. Sentiment Detection for Films</h1>
+#
 
 ![image](https://github.com/user-attachments/assets/faac6b18-bc1b-4626-bd24-877cf6a438c2)
 
