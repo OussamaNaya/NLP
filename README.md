@@ -16,7 +16,8 @@ The solution leverages preprocessed datasets and state-of-the-art machine learni
   <li><b>Model Training:</b> Employs machine learning algorithms such as Logistic Regression, Random Forest, and advanced transformers like BERT.</li>
   <li><b>Evaluation Metrics:</b> Includes precision, recall, F1-score, and confusion matrix analysis.</li>
 </ul>
-#
+
+# -----------------------------------------------------------------------------------------------------
 
 # 2. Sentiment Detection for Films</h1>
 
@@ -43,6 +44,8 @@ This project aims to build a machine learning model to analyze movie reviews and
 <p>
   This image illustrates the concept of sentiment detection for films, showcasing the combination of emotions and technology in analyzing movie reviews.
 </p>
-#
+
+# -----------------------------------------------------------------------------------------------------
+
 
 
